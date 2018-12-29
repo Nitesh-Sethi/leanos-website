@@ -20,3 +20,13 @@
 .hero-section h2 {
   font-size: 5vh;
 }
+
+.footer  {
+  background-color: #3d8676;
+  text-align: center;
+  padding: 32px;
+}
+
+.footer-heading {
+  padding-left: 120px;
+}
